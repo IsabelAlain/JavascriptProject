@@ -1,5 +1,5 @@
 export function EvenOrOdd(num1){
-    if(num1 % 2 == 0){
+    if(num1 % 2 === 0){
         console.log('The number is even')
     }else{
         console.log('The number is odd')
